@@ -1,6 +1,6 @@
 # Cubing Log
 
-## Log Date: ___________
+## Log Date: 12/20/2018
 1. What did I try to learn?
 -How to do three different algorithms on a 2 by 2 rubiks cube
 -How to know what state my cube is in before solving the second layer
